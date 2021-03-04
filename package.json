@@ -1,0 +1,28 @@
+{
+  "name": "elduartte-random-names",
+  "version": "1.0.1",
+  "description": "This package provides random names.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Juan Felipe Duarte <jf@duartte.co>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElDuartte/npm-random-names.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ElDuartte/npm-random-names/issues"
+  },
+  "homepage": "https://github.com/ElDuartte/npm-random-names#readme"
+}
